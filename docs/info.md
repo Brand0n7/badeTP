@@ -9,12 +9,16 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+How this work when the switches 1 or 2 either both on or just one the light on the bottom right will turn on but if both are off the light will turn off, swithes 3 and 4 both need to be on in order to turn on the light at the bottom if either are off then the light turns off. The rest of the switches control their own light. 5 controls the bottom left light, 6 controls top left, 7 controls the light in the middle, and 8 controls the period. If they are all on then it creates this "b."
 
 ## How to test
 
 Explain how to use your project
+In order to test it you can turn on and off each individual switch.
 
 ## External hardware
 
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Led display
+The "or" Switch 
+The "and" Switch 
