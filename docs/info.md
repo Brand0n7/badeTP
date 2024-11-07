@@ -13,13 +13,10 @@ How this work when the switches 1 or 2 either both on or just one the light on t
 
 ## How to test
 
-Explain how to use your project
-
-In order to test it you can turn on and off each individual switch.
+In order to test it you can turn on and off each individual switch. As I said in the how it works the switches 1 or 2 control the bottom right light either or can be on and switches 3 and 4 both need to be on in order to turn on the light at the bottom.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
-Led display
-The "or" Switch 
-The "and" Switch 
+- Led display
+- The "or" Switch 
+- The "and" Switch 
