@@ -4,7 +4,7 @@ project:
   title:        "BadeTP" # Project title 
   author:       "Brandon D" # Your name
   discord:      "_brand0n7" # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "idk"      # One line description of what your project does
+  description:  "Makes the letter b with a period at the end."      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
