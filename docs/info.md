@@ -14,6 +14,7 @@ How this work when the switches 1 or 2 either both on or just one the light on t
 ## How to test
 
 Explain how to use your project
+
 In order to test it you can turn on and off each individual switch.
 
 ## External hardware
